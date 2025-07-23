@@ -1,6 +1,16 @@
 <h1 align="center">Hi , I'm Gerardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h4 align="left">About Me</h4>
-<p>I'm a passionate Full Stack Developer with a strong foundation in modern web technologies and a commitment to delivering high-quality, scalable solutions. Currently pursuing my degree in Computer Systems Engineering while actively building projects that showcase my technical expertise.</p>
+<p>
+I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development.
+I love to learn and build something new, productive, innovative and creative.
+
+🌱 **I'm currently learning...**
+- Next.js
+- Vue.js  
+- MongoDB
+- AWS
+
+👀 **I'm looking forward to collaborate on open source projects**</p>
 <br/>
 
 <h1 align = "left">My Skills Include</h1>
