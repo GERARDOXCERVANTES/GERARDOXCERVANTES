@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm Gerardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h4 align="left">About Me</h4>
+<p>a Full Stack Developer passionate about building web applications.</p>
 <br/>
 
 <h1 align = "left">My Skills Include</h1>
