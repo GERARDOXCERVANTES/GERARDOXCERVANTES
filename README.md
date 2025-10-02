@@ -5,7 +5,6 @@ I am a computer engineering student, currently halfway through my degree. I am e
 I love to learn and build something new, productive, innovative and creative.
 
 🌱 **I'm currently learning...**
-- Next.js
 - Vue.js  
 - MongoDB
 - AWS
