@@ -4,8 +4,7 @@
 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development.
 I love to learn and build something new, productive, innovative and creative.
 
-🌱 **I'm currently learning...**
-- Vue.js  
+🌱 **I'm currently learning...**  
 - MongoDB
 - AWS
 
