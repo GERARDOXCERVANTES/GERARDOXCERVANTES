@@ -46,10 +46,7 @@ Estudiante de Ingeniería en Sistemas Computacionales Cuento con experiencia pr�
 
 ## Métricas
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GERARDOXCERVANTES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GERARDOXCERVANTES&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GERARDOXCERVANTES&theme=tokyonight&hide_border=true"/>
