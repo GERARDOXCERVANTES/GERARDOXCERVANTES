@@ -40,6 +40,7 @@ Estudiante de Ingenier√≠a en Sistemas Computacionales Cuento con experiencia pr√
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 <br/>
@@ -65,8 +66,9 @@ Estudiante de Ingenier√≠a en Sistemas Computacionales Cuento con experiencia pr√
 ## Contacto
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/olavarri-cervantes-gerardo-876a69271/" target="_blank">
+  <a href="www.linkedin.com/in/jerry-cervantes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
+  <a href="mailto:cervantesgerardo368@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/> </a>
   
 </div>
