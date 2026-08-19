@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=TypeScript+%2F+React+%2F+Next.js;Python+%2F+Django;Sistemas+integrados+con+AI+y+listos+para+producci%C3%B3n" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=TypeScript+%2F+React+%2F+Next.js;Sistemas+integrados+con+AI+y+listos+para+producci%C3%B3n" alt="Typing SVG" />
   </a>
 </p>
 
