@@ -52,7 +52,7 @@ Estudiante de Ingenier√≠a en Sistemas Computacionales Cuento con experiencia pr√
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GERARDOXCERVANTES&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
